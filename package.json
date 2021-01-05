@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "async-validator": "^1.11.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "epubjs-rn": "^0.1.1",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
