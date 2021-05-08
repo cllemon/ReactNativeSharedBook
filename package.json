@@ -13,7 +13,7 @@
     "async-validator": "^1.11.2",
     "axios": "^0.18.0",
     "epubjs-rn": "^0.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "prop-types": "^15.6.2",
     "react": "16.6.3",
